@@ -514,14 +514,14 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "PnP_Power.emn",
       "netlist": "",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PnP_Power.stl",
       "svg": "",
-      "vrml": ""
+      "vrml": "PnP_Power.wrl"
     },
     "page_layout_descr_file": ""
   },
