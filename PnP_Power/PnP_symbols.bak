@@ -3560,7 +3560,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SN74LVC2G04DBVR:SOT95P280X145-6N"
+		(property "Footprint" "PnP_Footprints:SOT95P280X145-6N"
 			(at 0 0 0)
 			(effects
 				(font

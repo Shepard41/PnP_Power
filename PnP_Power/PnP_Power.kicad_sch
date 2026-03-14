@@ -3735,7 +3735,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9431,7 +9431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1773485292062&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fsn74lvc2g04"
 			(at 138.43 187.96 0)
 			(effects
 				(font
@@ -9979,7 +9979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 			(at 161.29 21.59 0)
 			(effects
 				(font
@@ -10962,7 +10962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://tensility.s3.us-west-2.amazonaws.com/uploads/pdffiles/54-00356.pdf"
 			(at 236.22 33.02 0)
 			(effects
 				(font
@@ -11480,7 +11480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wiki.dfrobot.com/dfr0888-12/"
 			(at 40.64 219.71 0)
 			(effects
 				(font
@@ -14749,7 +14749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 			(at 68.58 68.58 0)
 			(effects
 				(font
@@ -15068,7 +15068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 			(at 69.85 113.03 0)
 			(effects
 				(font
@@ -16083,7 +16083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wiki.dfrobot.com/dfr0888-12/"
 			(at 39.37 175.26 0)
 			(effects
 				(font
@@ -16223,7 +16223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 			(at 161.29 67.31 0)
 			(effects
 				(font
@@ -16333,7 +16333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 			(at 162.56 111.76 0)
 			(effects
 				(font
@@ -16709,7 +16709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.arduino.cc/hardware/mega-2560/"
 			(at 332.74 97.79 0)
 			(effects
 				(font
@@ -17407,7 +17407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/"
 			(at 68.58 21.59 0)
 			(effects
 				(font
@@ -18473,7 +18473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://gaptec-electronic.com/datenblaetter/LMS78_2.0R.pdf"
 			(at 218.44 64.77 0)
 			(effects
 				(font
