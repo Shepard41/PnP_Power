@@ -1,4 +1,4 @@
-27097961738796075
+27108603324412072
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93443,12 +93443,54 @@ TO-264-5 Vertical RM 3.81mm
 5
 5
 PnP_Footprints
-Stepper_Driver
+A4988
 
 
 0
 16
 16
+PnP_Footprints
+ARDUINO_A000067
+
+
+0
+86
+86
+PnP_Footprints
+CONN_S2B-PH-K-S_JST
+
+S2B-PH-K-SLFSN 
+0
+2
+2
+PnP_Footprints
+CONN_S4B-PH-K-S_JST
+
+S4B-PH-K-SLFSN 
+0
+4
+4
+PnP_Footprints
+LMS78_05-2.0R
+
+
+0
+3
+3
+PnP_Footprints
+SOT95P280X145-6N
+
+
+0
+6
+6
+PnP_Footprints
+TENSILITY_54-00356
+
+
+0
+3
+3
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf

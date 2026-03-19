@@ -518,7 +518,7 @@
       "gencad": "",
       "idf": "PnP_Power.emn",
       "netlist": "",
-      "plot": "",
+      "plot": "pnp_power_gerbs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "PnP_Power.stl",
