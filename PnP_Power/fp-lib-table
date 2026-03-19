@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "PnP_Footprints")(type "KiCad")(uri "C:/Users/Shepard/Documents/GitHub/PnP_Power/PnP_Footprints.pretty")(options "")(descr ""))
+  (lib (name "PnP_Footprints")(type "KiCad")(uri "${KIPRJMOD}/../PnP_Footprints.pretty")(options "")(descr ""))
 )
